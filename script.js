@@ -1,0 +1,1 @@
+console.log('EgypTube script loaded');
